@@ -1,0 +1,22 @@
+.navbar{
+	margin: 0 0 3%;
+	border: 1px solid;
+	background-color: #d8c273;
+}
+.navbar-brand{
+	color: black;
+	margin-left: 19%;
+}
+ul{
+	margin-right: 25%;
+}
+.nav-link{
+	color: black;
+}
+footer{
+	margin-top: 16.5%;
+	padding: 0.5%;
+	text-align: center;
+	border: 1px solid;
+	background-color: #d8c273;
+}
